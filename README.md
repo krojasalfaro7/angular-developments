@@ -7,3 +7,7 @@ Crear un nuevo proyecto
 Libreria para encriptar y desencriptar
 
 	$ npm install crypto-js
+
+## Generar un modelo
+
+	$ ng generate class hero --type=model
